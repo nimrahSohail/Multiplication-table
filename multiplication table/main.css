@@ -1,0 +1,17 @@
+body{
+    background: url("im.jpg") !important;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    height: auto;
+    width: 100%;
+    color: rgb(255, 254, 255) !important;
+}
+.pink{
+    background-color: rgba(0, 0, 0, 0.493) !important;
+    color: rgb(236, 202, 223);
+}
+
+.hi{
+    color: rgb(82, 12, 55);
+    border: 2px solid palevioletred;
+}
